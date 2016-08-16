@@ -1,0 +1,35 @@
+body
+{
+	background: url('../img/ojo.jpg');
+	color: #000000;
+	font-family: Helvetica;
+	text-align: center;
+	font-weight: bold;
+}    
+h1 
+{
+    font-size: 45px;
+    border-style: solid;
+    border-radius: 8px;
+    background:#696969;
+}
+header
+{
+	background: #4B0082;
+	border-radius: 8px;
+}
+div .summary:hover
+{
+ border-style:solid;
+ border-radius: 8px;
+ border-color: #556b2f;
+ opacity: 0.5;
+    filter: alpha(opacity=50);
+
+}
+div #zen-explanation
+{
+ border-style:solid;
+ border-radius: 8px;
+ border-color:#556b2f	
+}
